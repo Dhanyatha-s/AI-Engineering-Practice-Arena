@@ -5,7 +5,7 @@
 
 ## 🚀 Live Demo
 
-[**Try it live →**](https://ai-engineer-lab.vercel.app)
+[**Try it live →**](https://ai-engineering-practice-arena-7galglr9l-dhanyatha-s-projects.vercel.app/)
 
 ## 📚 What's Inside
 
